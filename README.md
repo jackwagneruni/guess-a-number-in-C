@@ -1,17 +1,23 @@
 ```
+create int for true and false values
+create int for correct
+create int for 
+create boolean for keep going
+
+
 # guess-a-number-in-C
-the number is a random number 1 - 100
-your number is -1
- while your number does not equal the number
+while your number does not equal the number
    ask for a number
    if the number is <= the number you guessed
      if the number is < the number you guessed
         print you guessed to low
+	set keep going to true
      elif the number is > the number you guessed
         print you guessed to low
+	set keep going to true
      else
-       print you guessed the correct number
-  break out of the loop     
+       print you guessed the correct nu
+	set keep going to false
       
 
 ```
